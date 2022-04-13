@@ -50,3 +50,62 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1649836904714	geckodriver	INFO	Listening on 127.0.0.1:58413
+1649836907794	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile763s7h"
+1649836908042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile763s7h\\search.json.mozlz4", (void 0)))
+1649836909725	Marionette	INFO	Listening on port 58421
+1649836909846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649836909964	Marionette	INFO	Stopped listening on port 58421
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649836965089	geckodriver	INFO	Listening on 127.0.0.1:58494
+1649836968148	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileSarpQD"
+1649836968391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileSarpQD\\search.json.mozlz4", (void 0)))
+1649836969919	Marionette	INFO	Listening on port 58502
+1649836970214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649836970313	Marionette	INFO	Stopped listening on port 58502
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649837983586	geckodriver	INFO	Listening on 127.0.0.1:59350
+1649837986660	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileNFfp7x"
+1649837986914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileNFfp7x\\search.json.mozlz4", (void 0)))
+1649837988597	Marionette	INFO	Listening on port 59358
+1649837988719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649837988826	Marionette	INFO	Stopped listening on port 59358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1649838180386	geckodriver	INFO	Listening on 127.0.0.1:59533
+1649838183450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileE0IASt"
+1649838183701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileE0IASt\\search.json.mozlz4", (void 0)))
+1649838185474	Marionette	INFO	Listening on port 59541
+1649838185530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649838186734	Marionette	INFO	Stopped listening on port 59541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649838204785	geckodriver	INFO	Listening on 127.0.0.1:59597
+1649838207844	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofilemEONDg"
+1649838208085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofilemEONDg\\search.json.mozlz4", (void 0)))
+1649838209560	Marionette	INFO	Listening on port 59607
+1649838209886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649838211043	Marionette	INFO	Stopped listening on port 59607
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649838302233	geckodriver	INFO	Listening on 127.0.0.1:59715
+1649838305287	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofiledwePX7"
+1649838305538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofiledwePX7\\search.json.mozlz4", (void 0)))
+1649838307197	Marionette	INFO	Listening on port 59727
+1649838307345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649838308518	Marionette	INFO	Stopped listening on port 59727
