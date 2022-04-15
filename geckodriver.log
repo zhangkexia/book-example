@@ -817,3 +817,70 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:58705"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:58705"
 1650012412848	Marionette	INFO	Stopped listening on port 58812
+1650015089658	geckodriver	INFO	Listening on 127.0.0.1:60239
+1650015092721	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile16Drs9"
+1650015092973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile16Drs9\\search.json.mozlz4", (void 0)))
+1650015094586	Marionette	INFO	Listening on port 60248
+1650015094771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015094902	Marionette	INFO	Stopped listening on port 60248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 9156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650015095494	geckodriver	INFO	Listening on 127.0.0.1:60279
+1650015098580	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileg9UdLp"
+1650015098838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileg9UdLp\\search.json.mozlz4", (void 0)))
+1650015100510	Marionette	INFO	Listening on port 60287
+1650015100659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015100839	Marionette	INFO	Stopped listening on port 60287
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650015101466	geckodriver	INFO	Listening on 127.0.0.1:60320
+1650015104539	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofiles8m37u"
+1650015104795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofiles8m37u\\search.json.mozlz4", (void 0)))
+1650015106375	Marionette	INFO	Listening on port 60331
+1650015106587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015106695	Marionette	INFO	Stopped listening on port 60331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 1184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650015172383	geckodriver	INFO	Listening on 127.0.0.1:60432
+1650015175424	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofilefIYfHk"
+1650015175664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofilefIYfHk\\search.json.mozlz4", (void 0)))
+1650015177224	Marionette	INFO	Listening on port 60440
+1650015177474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015177595	Marionette	INFO	Stopped listening on port 60440
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 13404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650015178196	geckodriver	INFO	Listening on 127.0.0.1:60470
+1650015181277	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile7Xq3IM"
+1650015181525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofile7Xq3IM\\search.json.mozlz4", (void 0)))
+1650015183169	Marionette	INFO	Listening on port 60478
+1650015183351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015183525	Marionette	INFO	Stopped listening on port 60478
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1650015184012	geckodriver	INFO	Listening on 127.0.0.1:60509
+1650015187079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileen4ACz"
+1650015187332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yueyu\\AppData\\Local\\Temp\\rust_mozprofileen4ACz\\search.json.mozlz4", (void 0)))
+1650015188962	Marionette	INFO	Listening on port 60519
+1650015189142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650015189271	Marionette	INFO	Stopped listening on port 60519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
