@@ -25,7 +25,7 @@ SECRET_KEY = 'wsl2_b_t!aru=atgjbl%!fhoic9-7z_%zx&be**pl4ygmy$y$c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
